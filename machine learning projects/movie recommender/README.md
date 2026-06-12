@@ -234,6 +234,6 @@ This project is for educational purposes. The datasets are sourced from TMDB and
 
 <div align="center">
 
-**Built with ❤️ for movie enthusiasts**
+Built for movie enthusiasts
 
 </div>
